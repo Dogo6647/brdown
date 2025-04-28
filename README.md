@@ -1,2 +1,10 @@
-# brdown
-A simple python script that transforms your commented code into a detailed documentation page.
+# \<br\>down
+A simple python automation script that transforms your commented code into a detailed documentation HTML page.
+<br>Useful for breaking down and quickly turning fully-commented example scripts into their own markdown-style docpages.
+## Usage
+```sh
+python brdown.py [code-file] -o [output file]
+```
+If no output file is specified, brdown will just spit out all the HTML to the console.
+
+## Example result
