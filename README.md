@@ -8,3 +8,4 @@ python brdown.py [code-file] -o [output file]
 If no output file is specified, brdown will just spit out all the HTML to the console.
 
 ## Example result
+![brdown example](/docs/example-out.png)
