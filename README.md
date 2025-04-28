@@ -1,5 +1,5 @@
 # \<br\>down
-A simple python automation script that transforms your // commented code into a detailed documentation HTML page.
+A simple python automation script that transforms your `//` commented code into a detailed documentation HTML page.
 Useful for breaking down and quickly turning fully-commented example scripts into their own markdown-style docpages.<br><br>
 ## Usage
 ```sh
